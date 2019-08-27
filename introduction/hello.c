@@ -1,10 +1,7 @@
 #include<stdio.h> //stdio -> Standard Input/Output
 
 int main(){
-	/*My first
-	 * Program
-	 * in C
-	 */
+//Arriba las poderosísimas
 	printf("Hello World!");
 	return 0;
 }
